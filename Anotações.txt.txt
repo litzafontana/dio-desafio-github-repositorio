@@ -1,8 +1,0 @@
-Link para download do Git: 
-
-O Git bash é um terminal extendido para otimizar o uso do Git
-
-Comandos Importantes:
-git init - Criação de repositório
-git status - Verificação
-git add -a : adiciona a pasta ao controle de versão
